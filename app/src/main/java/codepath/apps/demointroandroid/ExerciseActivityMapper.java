@@ -51,7 +51,7 @@ public class ExerciseActivityMapper {
 	  exerciseClassMap.put("chap7ex1", ToastFormInputsActivity.class); // Toast Inputs
 	  exerciseClassMap.put("chap7ex2", SpinnerWithToastActivity.class); // Spinner Toast
 	  exerciseClassMap.put("chap7ex3", TimePickerDemoActivity.class); // TimePicker
-	  exerciseClassMap.put("chap7ex4", ProgressBarActivity.class); // ProgressBar
+	 // exerciseClassMap.put("chap7ex4", ProgressBarActivity.class); // ProgressBar
 	  exerciseClassMap.put("chap7ex5", GridViewDemoActivity.class); // GridView
 	  // Chapter 8: Preferences
 	  exerciseClassMap.put("chap8ex1", PersistSettingsActivity.class); // Persist Settings

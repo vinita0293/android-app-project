@@ -1,3 +1,4 @@
+/*
 package codepath.apps.demointroandroid;
 
 import java.io.ByteArrayOutputStream;
@@ -107,3 +108,4 @@ public class ProgressBarActivity extends Activity {
 	}
 
 }
+*/
